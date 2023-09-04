@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
 
+![Screenshot](screenshot.png)
+
 ## Implementation comments (not cli generated)
 
 1) In this particular case having button as a separate component might be an overkill, but I assumed because you wanted `DrawImageAndAnnotationsButtonClicked` action, it was also expected that it has to be used.
